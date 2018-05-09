@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SuccessResponse>
+  <Head>
+    <RequestId />
+    <RequestAction>GetProducts</RequestAction>
+    <ResponseType>Products</ResponseType>
+    <Timestamp>2018-04-24T14:37:34+0700</Timestamp>
+  </Head>
+  <Body>
+    <Products>
+      <Product>
+        <SellerSku>C-WAF601-D9-S</SellerSku>
+        <ShopSku>40C98AA59E1FBDGS-070NIJ</ShopSku>
+        <Name>KENT&amp;CREW HOODED SWEATER</Name>
+        <Variation>S</Variation>
+        <ParentSku>C-WAF601-D9-S</ParentSku>
+        <Quantity>2</Quantity>
+        <Available>2</Available>
+        <Price>429900.00</Price>
+        <SalePrice>300930.00</SalePrice>
+        <SaleStartDate>2018-02-01 00:00:00</SaleStartDate>
+        <SaleEndDate />
+        <Status>active</Status>
+        <ProductId />
+        <Url>http://www.zalora.co.id//KENT&amp;amp;CREW-HOODED-SWEATER-1547343.html</Url>
+        <MainImage>http://static.id.zalora.net/p/p/1547343-1022-3437451-1.jpg</MainImage>
+        <Images>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-1.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-2.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-3.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-4.jpg</Image>
+        </Images>
+        <Description>- Sweater regular fit&lt;br /&gt;- Hoodie&lt;br /&gt;- Unlined&lt;br /&gt;- Round neckline&lt;br /&gt;- Patch on chest</Description>
+        <TaxClass>default</TaxClass>
+        <Brand>Kent &amp; Crew</Brand>
+        <PrimaryCategory>Sweater &amp; Cardigan</PrimaryCategory>
+        <ProductData>
+          <SkuSupplierConfig>C-WAF601-D9</SkuSupplierConfig>
+          <SubCatType>Hoodies &amp; Sweatshirts</SubCatType>
+          <Color>Maroon</Color>
+          <ColorFamily>red</ColorFamily>
+          <NonsaleItem>1</NonsaleItem>
+          <Sizesystembrand>International</Sizesystembrand>
+          <Gender>Male</Gender>
+          <Year>2018</Year>
+          <Season>Year Round</Season>
+          <Measurements>Panjang Badan x Lingkar Dada x Lebar Bahu x Panjang Lengan:&lt;br /&gt;- S (64 cm x 46 cm x 40 cm x 57 cm)&lt;br /&gt;- M (66 cm x 48 cm x 42 cm x 58 cm)&lt;br /&gt;- L (68 cm x 50 cm x 44 cm x 59 cm)&lt;br /&gt;- XL (70 cm x 52 cm x 46 cm x 60 cm)</Measurements>
+          <Modeiswearing>L</Modeiswearing>
+          <Modelbodymeasurements>Height: 186 cm, fits size L</Modelbodymeasurements>
+        </ProductData>
+      </Product>
+      <Product>
+        <SellerSku>C-WAF601-D9-M</SellerSku>
+        <ShopSku>40C98AA59E1FBDGS-095JVW</ShopSku>
+        <Name>KENT&amp;CREW HOODED SWEATER</Name>
+        <Variation>M</Variation>
+        <ParentSku>C-WAF601-D9-S</ParentSku>
+        <Quantity>3</Quantity>
+        <Available>3</Available>
+        <Price>429900.00</Price>
+        <SalePrice>300930.00</SalePrice>
+        <SaleStartDate>2018-02-01 00:00:00</SaleStartDate>
+        <SaleEndDate />
+        <Status>active</Status>
+        <ProductId />
+        <Url>http://www.zalora.co.id//KENT&amp;amp;CREW-HOODED-SWEATER-1547343.html</Url>
+        <MainImage>http://static.id.zalora.net/p/p/1547343-1022-3437451-1.jpg</MainImage>
+        <Images>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-1.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-2.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-3.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-4.jpg</Image>
+        </Images>
+        <Description>- Sweater regular fit&lt;br /&gt;- Hoodie&lt;br /&gt;- Unlined&lt;br /&gt;- Round neckline&lt;br /&gt;- Patch on chest</Description>
+        <TaxClass>default</TaxClass>
+        <Brand>Kent &amp; Crew</Brand>
+        <PrimaryCategory>Sweater &amp; Cardigan</PrimaryCategory>
+        <ProductData>
+          <SkuSupplierConfig>C-WAF601-D9</SkuSupplierConfig>
+          <SubCatType>Hoodies &amp; Sweatshirts</SubCatType>
+          <Color>Maroon</Color>
+          <ColorFamily>red</ColorFamily>
+          <NonsaleItem>1</NonsaleItem>
+          <Sizesystembrand>International</Sizesystembrand>
+          <Gender>Male</Gender>
+          <Year>2018</Year>
+          <Season>Year Round</Season>
+          <Measurements>Panjang Badan x Lingkar Dada x Lebar Bahu x Panjang Lengan:&lt;br /&gt;- S (64 cm x 46 cm x 40 cm x 57 cm)&lt;br /&gt;- M (66 cm x 48 cm x 42 cm x 58 cm)&lt;br /&gt;- L (68 cm x 50 cm x 44 cm x 59 cm)&lt;br /&gt;- XL (70 cm x 52 cm x 46 cm x 60 cm)</Measurements>
+          <Modeiswearing>L</Modeiswearing>
+          <Modelbodymeasurements>Height: 186 cm, fits size L</Modelbodymeasurements>
+        </ProductData>
+      </Product>
+      <Product>
+        <SellerSku>C-WAF601-D9-L</SellerSku>
+        <ShopSku>40C98AA59E1FBDGS-082ABL</ShopSku>
+        <Name>KENT&amp;CREW HOODED SWEATER</Name>
+        <Variation>L</Variation>
+        <ParentSku>C-WAF601-D9-S</ParentSku>
+        <Quantity>4</Quantity>
+        <Available>4</Available>
+        <Price>429900.00</Price>
+        <SalePrice>300930.00</SalePrice>
+        <SaleStartDate>2018-02-01 00:00:00</SaleStartDate>
+        <SaleEndDate />
+        <Status>active</Status>
+        <ProductId />
+        <Url>http://www.zalora.co.id//KENT&amp;amp;CREW-HOODED-SWEATER-1547343.html</Url>
+        <MainImage>http://static.id.zalora.net/p/p/1547343-1022-3437451-1.jpg</MainImage>
+        <Images>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-1.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-2.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-3.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-4.jpg</Image>
+        </Images>
+        <Description>- Sweater regular fit&lt;br /&gt;- Hoodie&lt;br /&gt;- Unlined&lt;br /&gt;- Round neckline&lt;br /&gt;- Patch on chest</Description>
+        <TaxClass>default</TaxClass>
+        <Brand>Kent &amp; Crew</Brand>
+        <PrimaryCategory>Sweater &amp; Cardigan</PrimaryCategory>
+        <ProductData>
+          <SkuSupplierConfig>C-WAF601-D9</SkuSupplierConfig>
+          <SubCatType>Hoodies &amp; Sweatshirts</SubCatType>
+          <Color>Maroon</Color>
+          <ColorFamily>red</ColorFamily>
+          <NonsaleItem>1</NonsaleItem>
+          <Sizesystembrand>International</Sizesystembrand>
+          <Gender>Male</Gender>
+          <Year>2018</Year>
+          <Season>Year Round</Season>
+          <Measurements>Panjang Badan x Lingkar Dada x Lebar Bahu x Panjang Lengan:&lt;br /&gt;- S (64 cm x 46 cm x 40 cm x 57 cm)&lt;br /&gt;- M (66 cm x 48 cm x 42 cm x 58 cm)&lt;br /&gt;- L (68 cm x 50 cm x 44 cm x 59 cm)&lt;br /&gt;- XL (70 cm x 52 cm x 46 cm x 60 cm)</Measurements>
+          <Modeiswearing>L</Modeiswearing>
+          <Modelbodymeasurements>Height: 186 cm, fits size L</Modelbodymeasurements>
+        </ProductData>
+      </Product>
+      <Product>
+        <SellerSku>C-WAF601-D9-XL</SellerSku>
+        <ShopSku>40C98AA59E1FBDGS-061WNQ</ShopSku>
+        <Name>KENT&amp;CREW HOODED SWEATER</Name>
+        <Variation>XL</Variation>
+        <ParentSku>C-WAF601-D9-S</ParentSku>
+        <Quantity>3</Quantity>
+        <Available>3</Available>
+        <Price>429900.00</Price>
+        <SalePrice>300930.00</SalePrice>
+        <SaleStartDate>2018-02-01 00:00:00</SaleStartDate>
+        <SaleEndDate />
+        <Status>active</Status>
+        <ProductId />
+        <Url>http://www.zalora.co.id//KENT&amp;amp;CREW-HOODED-SWEATER-1547343.html</Url>
+        <MainImage>http://static.id.zalora.net/p/p/1547343-1022-3437451-1.jpg</MainImage>
+        <Images>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-1.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-2.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-3.jpg</Image>
+          <Image>http://static.id.zalora.net/p/p/1547343-1022-3437451-4.jpg</Image>
+        </Images>
+        <Description>- Sweater regular fit&lt;br /&gt;- Hoodie&lt;br /&gt;- Unlined&lt;br /&gt;- Round neckline&lt;br /&gt;- Patch on chest</Description>
+        <TaxClass>default</TaxClass>
+        <Brand>Kent &amp; Crew</Brand>
+        <PrimaryCategory>Sweater &amp; Cardigan</PrimaryCategory>
+        <ProductData>
+          <SkuSupplierConfig>C-WAF601-D9</SkuSupplierConfig>
+          <SubCatType>Hoodies &amp; Sweatshirts</SubCatType>
+          <Color>Maroon</Color>
+          <ColorFamily>red</ColorFamily>
+          <NonsaleItem>1</NonsaleItem>
+          <Sizesystembrand>International</Sizesystembrand>
+          <Gender>Male</Gender>
+          <Year>2018</Year>
+          <Season>Year Round</Season>
+          <Measurements>Panjang Badan x Lingkar Dada x Lebar Bahu x Panjang Lengan:&lt;br /&gt;- S (64 cm x 46 cm x 40 cm x 57 cm)&lt;br /&gt;- M (66 cm x 48 cm x 42 cm x 58 cm)&lt;br /&gt;- L (68 cm x 50 cm x 44 cm x 59 cm)&lt;br /&gt;- XL (70 cm x 52 cm x 46 cm x 60 cm)</Measurements>
+          <Modeiswearing>L</Modeiswearing>
+          <Modelbodymeasurements>Height: 186 cm, fits size L</Modelbodymeasurements>
+        </ProductData>
+      </Product>
+    </Products>
+  </Body>
+</SuccessResponse>
